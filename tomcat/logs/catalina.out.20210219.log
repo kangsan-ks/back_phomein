@@ -1,0 +1,24 @@
+===={"permission":"105207,104201,104202","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>5855</CURRENT_POINT>  </POINT_REQ></POS>
+===={"result":"F"}
+===={"result":"F"}
+===={"result":"F"}
+===={"permission":"105207,104201,104202","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>8306</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="3" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <SALE_DATE>20140504</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>0</POINT>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140604</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>550</POINT>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141214</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>580</POINT>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170617</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>880</POINT>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20180108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1000</POINT>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20180228</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>500</POINT>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>3510</CURRENT_POINT>  </POINT_REQ></POS>
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>8465</CURRENT_POINT>  </POINT_REQ></POS>
+2021-02-19 18:31:32,193  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'
+===={"result":"F"}

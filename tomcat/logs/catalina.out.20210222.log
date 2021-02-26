@@ -1,0 +1,409 @@
+===={"permission":"105207,104201,104202","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]
+DEBUG SMTP: useEhlo true, useAuth true
+DEBUG SMTP: useEhlo true, useAuth true
+DEBUG SMTP: trying to connect to host "smtp.gmail.com", port 587, isSSL false
+220 smtp.gmail.com ESMTP z28sm14816944pfg.216 - gsmtp
+DEBUG SMTP: connected to host "smtp.gmail.com", port: 587
+
+EHLO tomcat-alone3-55
+250-smtp.gmail.com at your service, [211.43.203.55]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "35882577"
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "STARTTLS", arg ""
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+STARTTLS
+220 2.0.0 Ready to start TLS
+EHLO tomcat-alone3-55
+250-smtp.gmail.com at your service, [211.43.203.55]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "35882577"
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "AUTH", arg "LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH"
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+DEBUG SMTP: Attempt to authenticate
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cGhvbWVpbmtyQGdtYWlsLmNvbQ==
+334 UGFzc3dvcmQ6
+Ynh4dmJ0ZmhjYW13YXRhbw==
+235 2.7.0 Accepted
+DEBUG SMTP: use8bit false
+MAIL FROM:<phomeinkr@gmail.com>
+250 2.1.0 OK z28sm14816944pfg.216 - gsmtp
+RCPT TO:<vitor14@naver.com>
+250 2.1.5 OK z28sm14816944pfg.216 - gsmtp
+DEBUG SMTP: Verified Addresses
+DEBUG SMTP:   vitor14@naver.com
+DATA
+354  Go ahead z28sm14816944pfg.216 - gsmtp
+Date: Mon, 22 Feb 2021 09:11:22 +0900 (KST)
+From: Phomein <phomeinkr@gmail.com>
+To: vitor14@naver.com
+Message-ID: <263945612.18.1613952682525.JavaMail.dailyking@tomcat-alone3-55>
+Subject: =?UTF-8?B?W+2PrOuplOyduF0g66y47J2Y7JeQIOuMgA==?=
+ =?UTF-8?B?7ZWcIOuLteuzgCDrk5zrpr3ri4jri6QuIA==?=
+MIME-Version: 1.0
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3recipe//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>=EB=AC=B8=EC=9D=98 =EB=8B=B5=EB=B3=80</title>
+</head>
+
+<body style=3D"margin:0; padding:0;">
+=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"698" st=
+yle=3D"margin:0 auto; padding:0;  color:#666; font-size:0; font-family:'=EB=
+=8F=8B=EC=9B=80', 'Dotum', 'Arial'; border:1px solid #ededed; border-spacin=
+g:0; border-collapse:collapse;">
+=09=09<tr>
+=09=09=09<td style=3D"padding:30px 39px 0 39px;">
+=09=09=09=09<div style=3D"position:relative; width:618px; margin:0; padding=
+:0;">
+=09=09=09=09=09<img src=3D"http://www.phomein.com/asset/images/email/email_=
+logo.png" alt=3D"" style=3D"border:none; vertical-align:top;" />
+=09=09=09=09=09<!-- <p style=3D"position:absolute; bottom:16px; right:0; pa=
+dding:0; margin:0; color:#222; font-size:12px; line-height:1; font-weight:b=
+old;">2021.02.22</p> -->
+=09=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09
+=09=09<tr>
+=09=09=09<td style=3D"padding:60px 39px 40px 39px; text-align:center;">
+=09=09=09=09<p style=3D"margin:0; padding:0 0 60px 0; text-align:left;">
+=09=09=09=09=09<img src=3D"http://www.phomein.com/asset/images/email/email_=
+tit_01.png" alt=3D"=EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EB=AC=B8=EC=9D=98=
+=EC=97=90 =EB=8C=80=ED=95=9C =EB=8B=B5=EB=B3=80 =EB=82=B4=EC=9A=A9=EC=9D=84=
+ =EC=95=88=EB=82=B4=ED=95=B4 =EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4." style=
+=3D"border:none; vertical-align:top;" />
+=09=09=09=09</p>
+=09=09=09=09<div style=3D"margin:0 0 15px 0; color:#222; font-size:14px; fo=
+nt-weight:bold; text-align:left;">=EB=AC=B8=EC=9D=98=EC=A0=95=EB=B3=B4</div=
+>
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"618" style=3D"margin:0 auto; padding:0;  color:#666; font-size:0; font-=
+family:'=EB=8F=8B=EC=9B=80', 'Dotum', 'Arial'; border-top:1px solid #444; b=
+order-spacing:0; border-collapse:collapse; text-align:left;">
+=09=09=09=09=09<colgroup>
+=09=09=09=09=09=09<col style=3D"width:134px">
+=09=09=09=09=09=09<col style=3D"width:auto">
+=09=09=09=09=09=09<col style=3D"width:134px">
+=09=09=09=09=09=09<col style=3D"width:176px">
+=09=09=09=09=09</colgroup>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EB=AC=B8=EC=9D=98=EA=B5=AC=EB=B6=84</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=EB=A7=
+=88=EC=9D=BC=EB=A6=AC=EC=A7=80/=ED=8F=AC=EC=9D=B8=ED=8A=B8</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=9D=B4=EB=A6=84</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=EA=B0=95=ED=98=84=
+=EC=A3=BC</td>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=97=B0=EB=9D=BD=EC=B2=98</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">010-71**-*992</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=9D=B4=EB=A9=94=EC=9D=BC</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">vitor14@naver.com</t=
+d>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=ED=9A=8C=EC=8B=A0=EC=9A=94=EC=B2=AD</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=9D=B4=EB=A9=94=
+=EC=9D=BC</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px; v=
+ertical-align:top;">=EC=A0=9C=EB=AA=A9</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=ED=95=
+=B8=EB=93=9C=ED=8F=B0=EB=B2=88=ED=98=B8=EB=B3=80=EA=B2=BD =EB=B0=8F =EC=9D=
+=B4=EB=A6=84=EB=B3=80=EA=B2=BD</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px; v=
+ertical-align:top;">=EB=82=B4=EC=9A=A9</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=B2=
+=98=EC=9D=8C =EB=93=B1=EB=A1=9D=EC=8B=9C =EC=9D=B4=EB=A6=84=EC=9D=84 =EC=9E=
+=98=EB=AA=BB=EC=9E=85=EB=A0=A5=ED=96=88=EA=B3=A0, =ED=95=B8=EB=93=9C=ED=8F=
+=B0=EB=B2=88=ED=98=B8=EA=B0=80 =EB=B3=80=EA=B2=BD=EB=90=98=EC=97=88=EC=8A=
+=B5=EB=8B=88=EB=8B=A4
+=EB=91=98=EB=8B=A4 =EB=B3=80=EA=B2=BD=EB=8F=84=EC=99=80=EC=A3=BC=EC=84=B8=
+=EC=9A=94 =ED=99=88=ED=8E=98=EC=9D=B4=EC=A7=80=EC=97=90=EC=84=9C =EB=B0=94=
+=EA=BF=80=EC=88=98 =EC=9E=88=EC=9D=84=EA=B1=B0=EB=9D=BC=EA=B3=A0 =ED=95=98=
+=EB=8A=94=EB=8D=B0 =EC=96=B4=EB=94=94=EC=84=9C =EB=B0=94=EA=BF=94=EC=95=BC=
+=ED=95=A0=EC=A7=80 =EB=AA=A8=EB=A5=B4=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4
+=EA=B8=B0=EC=A1=B4 : =EA=B0=95=ED=98=84=EC=A7=80, 010-2491-4992
+=EB=B3=80=EA=B2=BD=EC=9A=94=EC=B2=AD : =EA=B0=95=ED=98=84=EC=A3=BC, 010-711=
+5-4992</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<div style=3D"margin:30px 0 15px 0; color:#444; font-size:14px;=
+ font-weight:bold; text-align:left;">=EB=8B=B5=EB=B3=80=EB=82=B4=EC=9A=A9</=
+div>
+=09=09=09=09<div style=3D"padding:25px 30px; border-top:1px solid #444; tex=
+t-align:left; background:#f9f9f9;">
+=09=09=09=09=09<p style=3D"margin:0; color:#444; font-size:12px; font-weigh=
+t:bold; line-height:20px;">=EC=95=88=EB=85=95=ED=95=98=EC=84=B8=EC=9A=94.<b=
+r>=EA=B3=A0=EA=B0=9D=EB=8B=98=EA=BB=98=EC=84=9C =ED=8F=AC=EB=A9=94=EC=9D=B8=
+=EC=97=90 =EB=AC=B8=EC=9D=98=ED=95=98=EC=8B=A0 =EA=B3=A0=EA=B0=9D=EC=9D=98 =
+=EC=86=8C=EB=A6=AC =EB=AC=B8=EC=9D=98=EC=97=90 =EB=8C=80=ED=95=9C =EB=8B=B5=
+=EB=B3=80=EC=9E=85=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EC=95=88=EB=85=95=ED=95=98=EC=8B=AD=EB=8B=88=EA=B9=8C =
+=EA=B3=A0=EA=B0=9D=EB=8B=98 =ED=8F=AC=EB=A9=94=EC=9D=B8 =EB=B3=B8=EC=82=AC =
+(=EC=A3=BC)=EB=8D=B0=EC=9D=BC=EB=A6=AC=ED=82=B9=EC=9E=85=EB=8B=88=EB=8B=A4.=
+=20
+=EC=9A=94=EC=B2=AD=ED=95=98=EC=8B=A0 =ED=8F=AC=EC=9D=B8=ED=8A=B8 =EC=A0=95=
+=EB=B3=B4 =EB=B3=80=EA=B2=BD =EC=99=84=EB=A3=8C=EB=90=98=EC=97=88=EC=8A=B5=
+=EB=8B=88=EB=8B=A4. =ED=95=AD=EC=83=81 =ED=8F=AC=EB=A9=94=EC=9D=B8 =EC=9D=
+=B4=EC=9A=A9=EC=97=90 =EA=B0=90=EC=82=AC=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=
+=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EC=B6=94=EA=B0=80=EB=A1=9C =EA=B6=81=EA=B8=88=ED=95=98=
+=EC=8B=A0 =EC=A0=90=EC=9D=B4=EB=82=98 =EB=B6=88=ED=8E=B8=EC=82=AC=ED=95=AD=
+=EC=9D=80 =EC=9E=AC=EB=AC=B8=EC=9D=98 =EB=98=90=EB=8A=94 =EC=95=84=EB=9E=98=
+ =EB=B2=88=ED=98=B8=EB=A1=9C =EC=A0=84=ED=99=94 =EB=AC=B8=EC=9D=98 =EB=B6=
+=80=ED=83=81=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EA=B3=A0=EA=B0=9D=EC=84=BC=ED=84=B0(=EB=8C=80=ED=91=9C=
+=EB=B2=88=ED=98=B8 =EC=97=B0=EA=B2=B0 1=EB=B2=88) 1899-2422<br>=EC=A7=81=ED=
+=86=B5=EB=B2=88=ED=98=B8 031-780-1500</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EC=9D=98=EA=B2=AC=
+=EC=9C=BC=EB=A1=9C =EC=9D=B8=ED=95=B4 =EB=B0=9C=EC=A0=84=ED=95=98=EB=8A=94 =
+=ED=8F=AC=EB=A9=94=EC=9D=B8=EC=9D=B4 =EB=90=98=EB=8F=84=EB=A1=9D =EB=8D=94=
+=EC=9A=B1 =EB=85=B8=EB=A0=A5=ED=95=98=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4.<=
+br>=EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09</div>
+=09=09=09=09<p style=3D"margin:30px 0 0 0; padding:0;">
+=09=09=09=09=09<a href=3D"http://www.phomein.com" target=3D"_blank"><img sr=
+c=3D"http://www.phomein.com/asset/images/email/email_btn_01.png" alt=3D"" s=
+tyle=3D"border:none; vertical-align:top;" /></a>
+=09=09=09=09</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td style=3D"padding:25px 39px 59px 39px; border-top:1px solid #ed=
+eded; text-align:center;">
+=09=09=09=09<p style=3D"margin:0; color:#888; font-size:11px; line-height:2=
+0px; letter-spacing:-0.22px;">=EB=B3=B8 =EB=A9=94=EC=9D=BC=EC=9D=80 =EC=84=
+=9C=EB=B9=84=EC=8A=A4 =EC=9D=B4=EC=9A=A9 =EB=B0=8F =EB=B2=95=EC=A0=81 =EC=
+=9D=98=EB=AC=B4 =EA=B3=A0=EC=A7=80=EC=82=AC=ED=95=AD =EC=95=88=EB=82=B4=EB=
+=A9=94=EC=9D=BC=EB=A1=9C =EC=88=98=EC=8B=A0=EB=8F=99=EC=9D=98 =EC=97=AC=EB=
+=B6=80=EC=99=80 =EC=83=81=EA=B4=80=EC=97=86=EC=9D=B4 =EB=B0=9C=EC=86=A1=EB=
+=90=98=EC=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.<br>
+=09=09=09=09=EB=B3=B8 =EB=A9=94=EC=9D=BC=EC=9D=80 =EB=B0=9C=EC=8B=A0=EC=A0=
+=84=EC=9A=A9=EC=9D=B4=EB=AF=80=EB=A1=9C =ED=9A=8C=EC=8B=A0=EB=90=98=EC=A7=
+=80 =EC=95=8A=EC=9C=BC=EB=A9=B0, =EB=AC=B8=EC=9D=98=EC=82=AC=ED=95=AD=EC=9D=
+=80 <a href=3D"#" target=3D"_blank" style=3D"color:#888; font-size:11px; fo=
+nt-weight:bold; text-decoration:none;">=EB=8C=80=ED=91=9C=EB=B2=88=ED=98=B8=
+:1899-2422</a>=EB=A1=9C =EC=97=B0=EB=9D=BD =EC=A3=BC=EC=8B=9C=EA=B8=B0 =EB=
+=B0=94=EB=9E=8D=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09<p style=3D"padding-top:10px; color:#888; font-size:11px; line-=
+height:20px;">=EA=B2=BD=EA=B8=B0=EB=8F=84 =EC=84=B1=EB=82=A8=EC=8B=9C =EB=
+=B6=84=EB=8B=B9=EA=B5=AC =ED=99=A9=EC=83=88=EC=9A=B8=EB=A1=9C 216, 401=ED=
+=98=B8 (=EC=88=98=EB=82=B4=EB=8F=99, =ED=9C=B4=EB=A7=A5=EC=8A=A4=EB=B9=8C=
+=EB=A6=AC=EC=A7=80)<br>
+=09=09=09=09=EC=A3=BC=EC=8B=9D=ED=9A=8C=EC=82=AC =EB=8D=B0=EC=9D=BC=EB=A6=
+=AC=ED=82=B9&nbsp;|&nbsp;Tel: 1899-2422 =EC=83=81=ED=98=B8=EB=AA=85: =EC=A3=
+=BC=EC=8B=9D=ED=9A=8C=EC=82=AC =EB=8D=B0=EC=9D=BC=EB=A6=AC=ED=82=B9&nbsp;|&=
+nbsp;=EC=82=AC=EC=97=85=EC=9E=90=EB=93=B1=EB=A1=9D=EB=B2=88=ED=98=B8: 129-8=
+6-03729</p>
+=09=09=09=09<p style=3D"margin:10px 0 0 0; padding:0; color:#888; font-size=
+:11px; line-height:1; font-weight:bold;letter-spacing:1.5px;">Copyright=E2=
+=93=922019 DAILYKING INC. All rights reserved.</p>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+</body>
+</html>
+
+.
+250 2.0.0 OK  1613952688 z28sm14816944pfg.216 - gsmtp
+QUIT
+221 2.0.0 closing connection z28sm14816944pfg.216 - gsmtp
+================= mergeCardToMilage ===================
+========2013100100110556===========
+========01085032977===========
+========239===========
+================= mergeCardToMilage ===================
+data_MERGEMILEAGEXML:<?xml version="1.0" encoding="UTF-8"?><POS REQ_CODE="5"><CARD_CHANGE><HEAD_OFFICE_NO>860</HEAD_OFFICE_NO><SHOP_NO>000001</SHOP_NO><ORG_CARD_NO>2013100100110556</ORG_CARD_NO><NEW_CARD_NO>01085032977</NEW_CARD_NO></CARD_CHANGE></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?>
+[Fatal Error] :1:40: 예기치 않은 파일의 끝입니다.
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 40; 예기치 않은 파일의 끝입니다.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:257)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:347)
+	at com.main.web.brand.phomein.service.impl.PhomeinServiceImpl.mergeCardToMilage(PhomeinServiceImpl.java:248)
+	at com.main.admin.customer.web.CustomerController.update_apply_complete(CustomerController.java:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.mobile.device.DeviceResolverRequestFilter.doFilterInternal(DeviceResolverRequestFilter.java:60)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.navercorp.lucy.security.xss.servletfilter.XssEscapeServletFilter.doFilter(XssEscapeServletFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.ajp.AbstractAjpProcessor.process(AbstractAjpProcessor.java:877)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+================= mergeCardToMilage ===================
+========2015100100044104===========
+========01050318143===========
+========240===========
+================= mergeCardToMilage ===================
+data_MERGEMILEAGEXML:<?xml version="1.0" encoding="UTF-8"?><POS REQ_CODE="5"><CARD_CHANGE><HEAD_OFFICE_NO>860</HEAD_OFFICE_NO><SHOP_NO>000001</SHOP_NO><ORG_CARD_NO>2015100100044104</ORG_CARD_NO><NEW_CARD_NO>01050318143</NEW_CARD_NO></CARD_CHANGE></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="5" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <CARD_CHANGE>    <RESP_CODE>1</RESP_CODE>  </CARD_CHANGE></POS>
+java.lang.NullPointerException
+	at com.main.web.brand.phomein.service.impl.PhomeinServiceImpl.mergeCardToMilage(PhomeinServiceImpl.java:272)
+	at com.main.admin.customer.web.CustomerController.update_apply_complete(CustomerController.java:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.mobile.device.DeviceResolverRequestFilter.doFilterInternal(DeviceResolverRequestFilter.java:60)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.navercorp.lucy.security.xss.servletfilter.XssEscapeServletFilter.doFilter(XssEscapeServletFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.ajp.AbstractAjpProcessor.process(AbstractAjpProcessor.java:877)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+===={"permission":"101201,101221,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,108201,109201,109201,101221","result":"S"}
+2021-02-22 10:15:20,893  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'
+>>>>>>>>>>>>> [com.main.domain.CodeVO@2fe4a7c1, com.main.domain.CodeVO@4cc18877, com.main.domain.CodeVO@35e663ff, com.main.domain.CodeVO@28af15fe, com.main.domain.CodeVO@7ecceb8f, com.main.domain.CodeVO@3f7d3a52]
+>>>>>>>>>>>>> 10
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>705</CURRENT_POINT>  </POINT_REQ></POS>
+===={"permission":"101201,101221,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,108201,109201,109201,101221","result":"S"}
+===={"result":"F"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+/www/phomein_com/www/upload/customer/20210222/20210222150934475024.jpg
+===={"permission":"104202","result":"S"}
+===={"permission":"101201,101221,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,108201,109201,109201,101221","result":"S"}
+===============conts:null
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>1385</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>830</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />

@@ -1,0 +1,674 @@
+===={"permission":"105207,104201,104202","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]
+DEBUG SMTP: useEhlo true, useAuth true
+DEBUG SMTP: useEhlo true, useAuth true
+DEBUG SMTP: trying to connect to host "smtp.gmail.com", port 587, isSSL false
+220 smtp.gmail.com ESMTP w3sm778328pjt.4 - gsmtp
+DEBUG SMTP: connected to host "smtp.gmail.com", port: 587
+
+EHLO tomcat-alone3-55
+250-smtp.gmail.com at your service, [211.43.203.55]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "35882577"
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "STARTTLS", arg ""
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+STARTTLS
+220 2.0.0 Ready to start TLS
+EHLO tomcat-alone3-55
+250-smtp.gmail.com at your service, [211.43.203.55]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "35882577"
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "AUTH", arg "LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH"
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+DEBUG SMTP: Attempt to authenticate
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cGhvbWVpbmtyQGdtYWlsLmNvbQ==
+334 UGFzc3dvcmQ6
+Ynh4dmJ0ZmhjYW13YXRhbw==
+235 2.7.0 Accepted
+DEBUG SMTP: use8bit false
+MAIL FROM:<phomeinkr@gmail.com>
+250 2.1.0 OK w3sm778328pjt.4 - gsmtp
+RCPT TO:<tispffk@naver.com>
+250 2.1.5 OK w3sm778328pjt.4 - gsmtp
+DEBUG SMTP: Verified Addresses
+DEBUG SMTP:   tispffk@naver.com
+DATA
+354  Go ahead w3sm778328pjt.4 - gsmtp
+Date: Mon, 15 Feb 2021 10:13:26 +0900 (KST)
+From: Phomein <phomeinkr@gmail.com>
+To: tispffk@naver.com
+Message-ID: <258516842.12.1613351606721.JavaMail.dailyking@tomcat-alone3-55>
+Subject: =?UTF-8?B?W+2PrOuplOyduF0g66y47J2Y7JeQIOuMgA==?=
+ =?UTF-8?B?7ZWcIOuLteuzgCDrk5zrpr3ri4jri6QuIA==?=
+MIME-Version: 1.0
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3recipe//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>=EB=AC=B8=EC=9D=98 =EB=8B=B5=EB=B3=80</title>
+</head>
+
+<body style=3D"margin:0; padding:0;">
+=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"698" st=
+yle=3D"margin:0 auto; padding:0;  color:#666; font-size:0; font-family:'=EB=
+=8F=8B=EC=9B=80', 'Dotum', 'Arial'; border:1px solid #ededed; border-spacin=
+g:0; border-collapse:collapse;">
+=09=09<tr>
+=09=09=09<td style=3D"padding:30px 39px 0 39px;">
+=09=09=09=09<div style=3D"position:relative; width:618px; margin:0; padding=
+:0;">
+=09=09=09=09=09<img src=3D"http://www.phomein.com/asset/images/email/email_=
+logo.png" alt=3D"" style=3D"border:none; vertical-align:top;" />
+=09=09=09=09=09<!-- <p style=3D"position:absolute; bottom:16px; right:0; pa=
+dding:0; margin:0; color:#222; font-size:12px; line-height:1; font-weight:b=
+old;">2021.02.15</p> -->
+=09=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09
+=09=09<tr>
+=09=09=09<td style=3D"padding:60px 39px 40px 39px; text-align:center;">
+=09=09=09=09<p style=3D"margin:0; padding:0 0 60px 0; text-align:left;">
+=09=09=09=09=09<img src=3D"http://www.phomein.com/asset/images/email/email_=
+tit_01.png" alt=3D"=EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EB=AC=B8=EC=9D=98=
+=EC=97=90 =EB=8C=80=ED=95=9C =EB=8B=B5=EB=B3=80 =EB=82=B4=EC=9A=A9=EC=9D=84=
+ =EC=95=88=EB=82=B4=ED=95=B4 =EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4." style=
+=3D"border:none; vertical-align:top;" />
+=09=09=09=09</p>
+=09=09=09=09<div style=3D"margin:0 0 15px 0; color:#222; font-size:14px; fo=
+nt-weight:bold; text-align:left;">=EB=AC=B8=EC=9D=98=EC=A0=95=EB=B3=B4</div=
+>
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"618" style=3D"margin:0 auto; padding:0;  color:#666; font-size:0; font-=
+family:'=EB=8F=8B=EC=9B=80', 'Dotum', 'Arial'; border-top:1px solid #444; b=
+order-spacing:0; border-collapse:collapse; text-align:left;">
+=09=09=09=09=09<colgroup>
+=09=09=09=09=09=09<col style=3D"width:134px">
+=09=09=09=09=09=09<col style=3D"width:auto">
+=09=09=09=09=09=09<col style=3D"width:134px">
+=09=09=09=09=09=09<col style=3D"width:176px">
+=09=09=09=09=09</colgroup>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EB=AC=B8=EC=9D=98=EA=B5=AC=EB=B6=84</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=EB=A7=A4=EC=9E=A5=
+=EC=84=9C=EB=B9=84=EC=8A=A4</td>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EB=B0=A9=EB=AC=B8=EB=A7=A4=EC=9E=A5/=EB=B0=A9=EB=AC=B8=EC=9D=BC</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=ED=83=9C=EB=A6=89=
+=EC=9E=85=EA=B5=AC=EC=97=AD=EC=A0=90/2021-02-10</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=9D=B4=EB=A6=84</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">giselle choi</td>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=97=B0=EB=9D=BD=EC=B2=98</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">010-20**-*349</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=9D=B4=EB=A9=94=EC=9D=BC</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">tispffk@naver.com</t=
+d>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=ED=9A=8C=EC=8B=A0=EC=9A=94=EC=B2=AD</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=9D=B4=EB=A9=94=
+=EC=9D=BC</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px; v=
+ertical-align:top;">=EC=A0=9C=EB=AA=A9</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=86=
+=90=EB=8B=98=EC=9D=B4 =EC=9E=88=EB=8A=94=EB=8D=B0 =EB=B8=8C=EB=A0=88=EC=9D=
+=B4=ED=81=AC =ED=83=80=EC=9E=84 =EC=8B=9C=EC=9E=91 1=EB=B6=84=EC=A0=84 =EB=
+=85=B8=EB=9E=98=EB=81=84=EA=B3=A0 =EB=B6=88=EB=81=84=EB=8A=94=EA=B1=B4 =EB=
+=AC=B4=EC=8A=A8 =EA=B2=BD=EC=9A=B0=EC=9D=B8=EA=B0=80=EC=9A=94</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px; v=
+ertical-align:top;">=EB=82=B4=EC=9A=A9</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">2=EC=
+=9B=94 10=EC=9D=BC =EC=98=A4=ED=9B=84 2=EC=8B=9C50=EB=B6=84=EA=B2=BD=EC=97=
+=90 =ED=8F=AC=EB=A9=94=EC=9D=B8 =EC=A7=80=EC=A0=90=EC=97=90=EC=84=9C =EC=8B=
+=9D=EC=82=AC=EB=A5=BC =ED=95=98=EC=98=80=EC=8A=B5=EB=8B=88=EB=8B=A4.
+3=EC=8B=9C 30=EB=B6=84=EB=B6=80=ED=84=B0 =EB=B8=8C=EB=A0=88=EC=9D=B4=ED=81=
+=AC =ED=83=80=EC=9E=84=EC=9D=B4=EB=9D=BC =ED=95=98=EC=97=AC =EC=95=8C=EA=B2=
+=A0=EB=8B=A4=EA=B3=A0 =ED=95=98=EA=B3=A0 =EC=8B=9D=EC=82=AC =EC=A3=BC=EB=AC=
+=B8=EC=9D=84 =ED=95=98=EA=B3=A0 =EC=8B=9D=EC=82=AC=EB=A5=BC =ED=95=98=EC=98=
+=80=EC=A3=A0.
+=EA=B1=B0=EC=9D=98 =EC=8B=9D=EC=82=AC=EB=A5=BC =EB=A7=88=EC=B3=A4=EC=9D=84=
+=EB=95=8C =EC=AF=A4 =EA=B0=91=EC=9E=90=EA=B8=B0 =EB=B6=88=EC=9D=84 =EB=81=
+=84=EA=B3=A0 =EB=85=B8=EB=9E=98=EA=B0=80 =EA=BA=BC=EC=A1=8C=EC=8A=B5=EB=8B=
+=88=EB=8B=A4. =EB=B6=88=EC=9D=80 =EC=A0=84=EC=B2=B4 =EC=86=8C=EB=93=B1 -> =
+=EB=B6=80=EB=B6=84 =EC=A0=90=EB=93=B1=EC=9C=BC=EB=A1=9C =EB=B0=94=EB=80=8C=
+=EC=97=88=EA=B5=AC=EC=9A=94
+=EA=B7=B8=EB=9E=98=EC=84=9C =EC=8B=9C=EA=B0=84=EC=9D=84 =EB=B3=B4=EB=8B=88 =
+3=EC=8B=9C 29=EB=B6=84=EC=9D=B4=EB=8D=94=EA=B5=B0=EC=9A=94
+
+=EB=85=B8=EB=9E=98=EB=8A=94 =ED=8B=80=EC=96=B4=EC=A7=80=EC=A7=80=EC=95=8A=
+=EA=B3=A0 =EC=A0=81=EB=A7=89 =EC=86=8D=EC=97=90=EC=84=9C =EC=95=BD2=EB=B6=
+=84=EA=B0=84 =ED=95=98=EB=8D=98 =EC=8B=9D=EC=82=AC=EB=A5=BC =EB=A7=88=EC=A0=
+=80 =EC=A0=95=EB=A6=AC=ED=95=98=EA=B3=A0 =EC=9D=BC=EC=96=B4=EB=82=AC=EC=8A=
+=B5=EB=8B=88=EB=8B=A4.
+
+=EB=B3=B8=EC=9D=B8=EB=93=A4 =EB=B8=8C=EB=A0=88=EC=9D=B4=ED=81=AC =ED=83=80=
+=EC=9E=84=EC=9D=B4=EB=9D=BC=EA=B3=A0 =EB=B0=A5=EC=83=81=EC=9D=84 =EC=B0=A8=
+=EB=A6=AC=EA=B3=A0 =EC=9E=88=EB=8D=94=EA=B5=B0=EC=9A=94
+
+
+=EC=A7=81=EC=9B=90=EB=93=A4 =EC=8B=9D=EC=82=AC=ED=95=98=EB=8A=94=EA=B1=B4 =
+=EC=9D=B4=ED=95=B4=ED=95=A9=EB=8B=88=EB=8B=A4. =EB=8A=A6=EC=9D=80=EC=8B=9C=
+=EA=B0=84=EC=9D=B4=EB=8B=88=EA=B9=90=EC=9A=94
+=EA=B7=B8=EB=9F=AC=EB=82=98 =EB=B8=8C=EB=A0=88=EC=9D=B4=ED=81=AC=ED=83=80=
+=EC=9E=84=EC=9D=84 =EC=9D=B4=EB=9F=B0=EC=8B=9D=EC=9C=BC=EB=A1=9C =EC=95=8C=
+=EB=A6=AC=EB=A9=B0 =EA=B3=A0=EA=B0=9D =EC=9D=91=EB=8C=80=EB=A5=BC =ED=96=88=
+=EC=96=B4=EC=95=BC=ED=96=88=EB=82=98=EC=9A=94?
+
+
+=EC=B5=9C=EC=86=8C=ED=95=9C =EA=B3=A0=EA=B0=9D=EB=8B=98, =EC=9D=B4=EC=A0=9C=
+ =EB=A7=90=EC=94=80=EB=93=9C=EB=A6=B0 =EB=B8=8C=EB=A0=88=EC=9D=B4=ED=81=AC=
+=ED=83=80=EC=9E=84=EC=9D=B4 =EB=8B=A4 =EB=90=98=EC=96=B4=EA=B0=80=EB=8B=88 =
+=EC=8B=9D=EC=82=AC =EC=A0=95=EB=A6=AC =EB=B6=80=ED=83=81=EB=93=9C=EB=A6=B0=
+=EB=8B=A4 =EC=96=98=EA=B8=B0=EB=A5=BC 5=EB=B6=84=EC=A0=84=EC=97=90=EB=A7=8C=
+ =ED=96=88=EC=96=B4=EB=8F=84
+=EA=B8=B0=EB=B6=84=EC=9D=B4 =EC=83=81=ED=95=98=EC=A7=84 =EC=95=8A=EC=95=98=
+=EC=9D=84=EA=B2=81=EB=8B=88=EB=8B=A4. =EB=8B=B9=EC=97=B0=ED=9E=88 =EB=B8=8C=
+=EB=A0=88=EC=9D=B4=ED=81=AC =ED=83=80=EC=9E=84=EC=9D=B4=EB=8B=88 =EB=82=98=
+=EA=B0=80=EC=95=BC=EA=B2=A0=EB=8B=A4 =EC=83=9D=EA=B0=81=ED=96=88=EA=B2=A0=
+=EC=A3=A0.
+=EA=B7=B8=EB=9F=B0=EB=8D=B0 =EB=B6=88=EC=9D=84 =EB=81=84=EA=B3=A0 =EB=85=B8=
+=EB=9E=98=EB=A5=BC =EB=81=84=EA=B3=A0 =EC=95=8C=EC=95=84=EC=84=9C =EB=82=98=
+=EA=B0=80=EB=9D=BC=EB=8A=94=EA=B1=B4=EA=B0=80=EC=9A=94
+=EC=A0=95=EB=8B=B9=ED=95=9C =EB=8C=80=EA=B0=80=EB=A5=BC =EC=A7=80=EB=B6=88=
+=ED=95=98=EA=B3=A0 =EB=B0=A5=EC=9D=84 =EB=A8=B9=EB=8A=94=EB=8D=B0 =EC=99=9C=
+ =EA=B7=B8=EB=9F=B0 =EB=8C=80=EC=A0=91=EC=9D=84 =EB=B0=9B=EC=95=98=EC=96=B4=
+=EC=95=BC =ED=96=88=EB=8A=94=EC=A7=80 =EB=AA=A8=EB=A5=B4=EA=B2=A0=EA=B5=B0=
+=EC=9A=94
+
+
+=EA=B7=B8=EB=9E=98=EC=84=9C =EA=B3=84=EC=82=B0=EC=9D=84 =ED=95=98=EB=A9=B4=
+=EC=84=9C =EC=A0=9C=EA=B0=80 =EB=8B=B4=EB=8B=B9=EC=9E=90=EB=83=90=EA=B3=A0 =
+=EC=97=AC=EC=AD=A4=EB=B3=B4=EB=8B=88 =EB=8B=B4=EB=8B=B9=EC=9E=90=EB=9D=BC=
+=EA=B3=A0 =ED=95=A9=EB=8B=88=EB=8B=A4.
+=EA=B7=B8=EB=83=A5=EC=9D=80 =EB=AA=BB=EB=84=98=EC=96=B4=EA=B0=80=EA=B2=A0=
+=EC=96=B4=EC=84=9C =EC=9C=84=EC=97=90 =EC=83=9D=EA=B0=81=ED=96=88=EB=8D=98=
+=EB=8C=80=EB=A1=9C =EB=AF=B8=EB=A6=AC =EB=A7=90=EB=A1=9C=EB=9D=BC=EB=8F=84 =
+=EC=96=98=EA=B8=B0=EB=A5=BC =ED=95=B4=EC=A3=BC=EC=A7=80 =EB=85=B8=EB=9E=98=
+=EB=A5=BC =EB=81=84=EA=B3=A0 =EB=B6=88=EC=9D=84 =EB=81=84=EB=8A=94=EA=B1=B4=
+ =EC=A2=80 =EC=95=84=EB=8B=8C=EA=B1=B0=EA=B0=99=EB=8B=A4=EA=B3=A0 =ED=95=98=
+=EB=8B=88
+
+=EC=9D=91~ =EB=84=8C =EA=B7=B8=EB=83=A5 =EA=B3=84=EC=82=B0=EB=A7=8C=ED=95=
+=B4. =EB=84=88=EA=B0=80 =EB=AD=90=EB=9D=BC =ED=95=98=EB=8D=98 =EB=82=9C =EC=
+=9E=98=EB=AA=BB=EC=97=86=EA=B3=A0, =EA=B7=B8=EB=9F=B0 =EB=8B=88 =EB=A7=90 =
+=EB=93=A4=EC=9D=84 =EC=83=9D=EA=B0=81=EB=8F=84 =EC=97=86=EC=96=B4
+
+=EB=9D=BC=EB=8A=94 =ED=83=9C=EB=8F=84=EB=A1=9C =EC=A0=80=ED=9D=AC=EB=A5=BC =
+=EC=9D=91=EB=8C=80=ED=95=98=EB=8D=94=EA=B5=B0=EC=9A=94
+=EC=A3=84=EC=86=A1=ED=95=98=EB=8B=A4=EB=8A=94 =EB=A7=90=EC=9D=80 =EB=93=A3=
+=EC=A7=80 =EB=AA=BB=ED=96=88=EC=8A=B5=EB=8B=88=EB=8B=A4.
+
+=EB=8D=94=EC=9D=B4=EC=83=81 =ED=8F=AC=EB=A9=94=EC=9D=B8 =EC=9D=B4 =EC=A7=80=
+=EC=A0=90=EC=9D=80 =EC=9D=B4=EC=9A=A9=ED=95=98=EC=A7=80 =EC=95=8A=EC=9D=84 =
+=EB=93=AF =ED=95=98=EA=B5=AC=EC=9A=94
+=EC=A3=BC=EB=B3=80=EC=97=90=EB=8F=84 =EB=84=90=EB=A6=AC =EC=95=8C=EB=A6=B4 =
+=EA=B3=84=ED=9A=8D=EC=9E=85=EB=8B=88=EB=8B=A4.
+
+=EC=A7=81=EC=9B=90 =EC=84=9C=EB=B9=84=EC=8A=A4 =EA=B5=90=EC=9C=A1=EC=9D=80 =
+=EC=A7=84=ED=96=89=ED=95=98=EA=B3=A0 =EC=9E=88=EB=8A=94=EA=B1=B4=EA=B0=80=
+=EC=9A=94?  =EC=9D=B4=EB=A0=87=EA=B2=8C =EA=B0=9C=EB=85=90=EC=97=86=EB=8A=
+=94 =EC=A0=90=EC=A3=BC=EC=9D=B8=EC=A7=80 =EC=A7=81=EC=9B=90=EC=9D=B8=EC=A7=
+=80=EB=8A=94 =EC=B2=98=EC=9D=8C=EB=B3=B4=EB=84=A4=EC=9A=94.</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<div style=3D"margin:30px 0 15px 0; color:#444; font-size:14px;=
+ font-weight:bold; text-align:left;">=EB=8B=B5=EB=B3=80=EB=82=B4=EC=9A=A9</=
+div>
+=09=09=09=09<div style=3D"padding:25px 30px; border-top:1px solid #444; tex=
+t-align:left; background:#f9f9f9;">
+=09=09=09=09=09<p style=3D"margin:0; color:#444; font-size:12px; font-weigh=
+t:bold; line-height:20px;">=EC=95=88=EB=85=95=ED=95=98=EC=84=B8=EC=9A=94.<b=
+r>=EA=B3=A0=EA=B0=9D=EB=8B=98=EA=BB=98=EC=84=9C =ED=8F=AC=EB=A9=94=EC=9D=B8=
+=EC=97=90 =EB=AC=B8=EC=9D=98=ED=95=98=EC=8B=A0 =EA=B3=A0=EA=B0=9D=EC=9D=98 =
+=EC=86=8C=EB=A6=AC =EB=AC=B8=EC=9D=98=EC=97=90 =EB=8C=80=ED=95=9C =EB=8B=B5=
+=EB=B3=80=EC=9E=85=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EC=95=88=EB=85=95=ED=95=98=EC=8B=AD=EB=8B=88=EA=B9=8C =
+=EA=B3=A0=EA=B0=9D=EB=8B=98 =ED=8F=AC=EB=A9=94=EC=9D=B8 =EB=B3=B8=EC=82=AC =
+(=EC=A3=BC) =EB=8D=B0=EC=9D=BC=EB=A6=AC=ED=82=B9=EC=9E=85=EB=8B=88=EB=8B=A4=
+.. =EA=B3=A0=EA=B0=9D=EB=8B=98=EA=BB=98=EC=84=9C =EB=82=A8=EA=B2=A8=EC=A3=BC=
+=EC=8B=A0 =EA=B8=80 =EC=83=81=EC=84=B8=ED=9E=88 =EC=9D=BD=EC=96=B4=EB=B3=B8=
+ =ED=9B=84 =EC=9D=B4=EB=A0=87=EA=B2=8C =EB=8B=B5=EB=B3=80=EB=93=9C=EB=A6=BD=
+=EB=8B=88=EB=8B=A4. =EC=9A=B0=EC=84=A0 =EC=86=8C=EC=A4=91=ED=95=9C =EC=8B=
+=9D=EC=82=AC =EC=8B=9C=EA=B0=84=EC=97=90 =EB=B6=88=EC=BE=8C=ED=95=A8=EC=9D=
+=84 =EC=A0=84=ED=95=B4=EB=93=9C=EB=A6=B0 =EC=A0=90=EC=97=90 =EB=8C=80=ED=95=
+=B4 =ED=83=9C=EB=A6=89=EC=9E=85=EA=B5=AC=EC=97=AD=EC=A0=90=EC=9D=84 =EB=8C=
+=80=EC=8B=A0=ED=95=98=EC=97=AC =EC=A3=84=EC=86=A1=ED=95=98=EB=8B=A4=EB=8A=
+=94 =EC=82=AC=EA=B3=BC =EB=A7=90=EC=94=80=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=
+=A4. =EA=B3=A0=EA=B0=9D=EB=8B=98=EA=BB=98=EC=84=9C =EB=A7=90=EC=94=80=ED=95=
+=B4 =EC=A3=BC=EC=8B=A0 =EB=82=B4=EC=9A=A9=EC=9D=80 =ED=83=9C=EB=A6=89=EC=9E=
+=85=EA=B5=AC=EC=97=AD=EC=A0=90 =EB=8B=B4=EB=8B=B9=EC=9E=90 (SV)=EC=97=90=EA=
+=B2=8C =EC=A0=84=EB=8B=AC=ED=95=98=EC=98=80=EC=9C=BC=EB=A9=B0, =ED=95=B4=EB=
+=8B=B9 =EB=82=B4=EC=9A=A9=EC=9D=80 =EA=B0=80=EB=A7=B9=EC=A0=90=EC=A3=BC=EC=
+=97=90=EA=B2=8C =EA=B3=B5=EC=A7=80=ED=95=98=EC=97=AC 1=EC=B0=A8 =EA=B5=90=
+=EC=9C=A1 =EC=A7=84=ED=96=89=ED=95=98=EC=98=80=EC=8A=B5=EB=8B=88=EB=8B=A4. =
+=EB=98=90=ED=95=9C, =EB=A7=A4=EC=9E=A5=EC=9D=84 =EB=B0=A9=EB=AC=B8=ED=95=98=
+=EC=97=AC =EB=AA=A8=EB=93=A0 =EA=B7=BC=EB=AC=B4=EC=9E=90 =EB=8C=80=EC=83=81=
+ =EA=B3=A0=EA=B0=9D =EC=9D=91=EB=8C=80 =EA=B5=90=EC=9C=A1 =EB=B0=8F =EC=84=
+=9C=EB=B9=84=EC=8A=A4 =EB=A7=A4=EB=89=B4=EC=96=BC=EC=97=90 =EA=B4=80=EB=A0=
+=A8=ED=95=98=EC=97=AC 2=EC=B0=A8 =EA=B5=90=EC=9C=A1 =EC=98=88=EC=A0=95=EC=
+=9E=85=EB=8B=88=EB=8B=A4. =ED=8F=AC=EB=A9=94=EC=9D=B8 =EC=9D=B4=EC=9A=A9=EC=
+=97=90 =EB=B6=88=ED=8E=B8=EC=9D=84 =EB=93=9C=EB=A6=B0 =EC=A0=90 =EB=8B=A4=
+=EC=8B=9C =ED=95=9C=EB=B2=88 =EC=A7=84=EC=8B=AC=EC=9C=BC=EB=A1=9C =EC=82=AC=
+=EA=B3=BC =EB=A7=90=EC=94=80=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4. =ED=95=AD=
+=EC=83=81 =EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EC=86=8C=EC=A4=91=ED=95=9C =
+=EC=9D=98=EA=B2=AC=EC=97=90 =EA=B7=80 =EA=B8=B0=EC=9A=B8=EC=9D=B4=EB=A9=B0 =
+=EC=B5=9C=EC=83=81=EC=9D=98 =EC=84=9C=EB=B9=84=EC=8A=A4=EB=A5=BC =EC=A0=9C=
+=EA=B3=B5=ED=95=98=EB=8F=84=EB=A1=9D =EB=85=B8=EB=A0=A5=ED=95=98=EB=8A=94 =
+=ED=8F=AC=EB=A9=94=EC=9D=B8=EC=9D=B4 =EB=90=98=EB=8F=84=EB=A1=9D =ED=95=98=
+=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4. =EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=
+=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EC=B6=94=EA=B0=80=EB=A1=9C =EA=B6=81=EA=B8=88=ED=95=98=
+=EC=8B=A0 =EC=A0=90=EC=9D=B4=EB=82=98 =EB=B6=88=ED=8E=B8=EC=82=AC=ED=95=AD=
+=EC=9D=80 =EC=9E=AC=EB=AC=B8=EC=9D=98 =EB=98=90=EB=8A=94 =EC=95=84=EB=9E=98=
+ =EB=B2=88=ED=98=B8=EB=A1=9C =EC=A0=84=ED=99=94 =EB=AC=B8=EC=9D=98 =EB=B6=
+=80=ED=83=81=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EA=B3=A0=EA=B0=9D=EC=84=BC=ED=84=B0(=EB=8C=80=ED=91=9C=
+=EB=B2=88=ED=98=B8 =EC=97=B0=EA=B2=B0 1=EB=B2=88) 1899-2422<br>=EC=A7=81=ED=
+=86=B5=EB=B2=88=ED=98=B8 031-780-1500</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EC=9D=98=EA=B2=AC=
+=EC=9C=BC=EB=A1=9C =EC=9D=B8=ED=95=B4 =EB=B0=9C=EC=A0=84=ED=95=98=EB=8A=94 =
+=ED=8F=AC=EB=A9=94=EC=9D=B8=EC=9D=B4 =EB=90=98=EB=8F=84=EB=A1=9D =EB=8D=94=
+=EC=9A=B1 =EB=85=B8=EB=A0=A5=ED=95=98=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4.<=
+br>=EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09</div>
+=09=09=09=09<p style=3D"margin:30px 0 0 0; padding:0;">
+=09=09=09=09=09<a href=3D"http://www.phomein.com" target=3D"_blank"><img sr=
+c=3D"http://www.phomein.com/asset/images/email/email_btn_01.png" alt=3D"" s=
+tyle=3D"border:none; vertical-align:top;" /></a>
+=09=09=09=09</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td style=3D"padding:25px 39px 59px 39px; border-top:1px solid #ed=
+eded; text-align:center;">
+=09=09=09=09<p style=3D"margin:0; color:#888; font-size:11px; line-height:2=
+0px; letter-spacing:-0.22px;">=EB=B3=B8 =EB=A9=94=EC=9D=BC=EC=9D=80 =EC=84=
+=9C=EB=B9=84=EC=8A=A4 =EC=9D=B4=EC=9A=A9 =EB=B0=8F =EB=B2=95=EC=A0=81 =EC=
+=9D=98=EB=AC=B4 =EA=B3=A0=EC=A7=80=EC=82=AC=ED=95=AD =EC=95=88=EB=82=B4=EB=
+=A9=94=EC=9D=BC=EB=A1=9C =EC=88=98=EC=8B=A0=EB=8F=99=EC=9D=98 =EC=97=AC=EB=
+=B6=80=EC=99=80 =EC=83=81=EA=B4=80=EC=97=86=EC=9D=B4 =EB=B0=9C=EC=86=A1=EB=
+=90=98=EC=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.<br>
+=09=09=09=09=EB=B3=B8 =EB=A9=94=EC=9D=BC=EC=9D=80 =EB=B0=9C=EC=8B=A0=EC=A0=
+=84=EC=9A=A9=EC=9D=B4=EB=AF=80=EB=A1=9C =ED=9A=8C=EC=8B=A0=EB=90=98=EC=A7=
+=80 =EC=95=8A=EC=9C=BC=EB=A9=B0, =EB=AC=B8=EC=9D=98=EC=82=AC=ED=95=AD=EC=9D=
+=80 <a href=3D"#" target=3D"_blank" style=3D"color:#888; font-size:11px; fo=
+nt-weight:bold; text-decoration:none;">=EB=8C=80=ED=91=9C=EB=B2=88=ED=98=B8=
+:1899-2422</a>=EB=A1=9C =EC=97=B0=EB=9D=BD =EC=A3=BC=EC=8B=9C=EA=B8=B0 =EB=
+=B0=94=EB=9E=8D=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09<p style=3D"padding-top:10px; color:#888; font-size:11px; line-=
+height:20px;">=EA=B2=BD=EA=B8=B0=EB=8F=84 =EC=84=B1=EB=82=A8=EC=8B=9C =EB=
+=B6=84=EB=8B=B9=EA=B5=AC =ED=99=A9=EC=83=88=EC=9A=B8=EB=A1=9C 216, 401=ED=
+=98=B8 (=EC=88=98=EB=82=B4=EB=8F=99, =ED=9C=B4=EB=A7=A5=EC=8A=A4=EB=B9=8C=
+=EB=A6=AC=EC=A7=80)<br>
+=09=09=09=09=EC=A3=BC=EC=8B=9D=ED=9A=8C=EC=82=AC =EB=8D=B0=EC=9D=BC=EB=A6=
+=AC=ED=82=B9&nbsp;|&nbsp;Tel: 1899-2422 =EC=83=81=ED=98=B8=EB=AA=85: =EC=A3=
+=BC=EC=8B=9D=ED=9A=8C=EC=82=AC =EB=8D=B0=EC=9D=BC=EB=A6=AC=ED=82=B9&nbsp;|&=
+nbsp;=EC=82=AC=EC=97=85=EC=9E=90=EB=93=B1=EB=A1=9D=EB=B2=88=ED=98=B8: 129-8=
+6-03729</p>
+=09=09=09=09<p style=3D"margin:10px 0 0 0; padding:0; color:#888; font-size=
+:11px; line-height:1; font-weight:bold;letter-spacing:1.5px;">Copyright=E2=
+=93=922019 DAILYKING INC. All rights reserved.</p>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+</body>
+</html>
+
+.
+250 2.0.0 OK  1613351611 w3sm778328pjt.4 - gsmtp
+QUIT
+221 2.0.0 closing connection w3sm778328pjt.4 - gsmtp
+===={"permission":"101201,101221,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,108201,109201,109201,101221","result":"S"}
+===={"permission":"101201,101221,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,108201,109201,109201,101221","result":"S"}
+===============conts:null
+===============conts:null
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="3" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <SALE_DATE>20150517</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>310</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150523</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1150</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170308</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>180</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150609</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>200</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150703</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>360</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130113</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>420</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130113</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>0</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130216</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>400</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130512</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>420</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150730</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>540</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140318</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>590</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20131220</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>810</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1120</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140309</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1540</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140614</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1010</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140905</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>680</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141018</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>540</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>180</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141207</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>390</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141207</SALE_DATE>    <POINT_TYPE>3</POINT_TYPE>    <POINT>7500</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150325</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>510</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150509</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>370</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20201015</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>475</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20201002</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>495</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20151107</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>390</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20160117</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>200</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20160814</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>440</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20161017</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>910</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20160823</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>360</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170616</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>670</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170514</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>790</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20171009</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>690</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20181115</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>500</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="3" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <SALE_DATE>20150517</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>310</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150523</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1150</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170308</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>180</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150609</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>200</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150703</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>360</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130113</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>420</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130113</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>0</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130216</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>400</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20130512</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>420</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150730</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>540</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140318</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>590</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20131220</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>810</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1120</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140309</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1540</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140614</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1010</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20140905</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>680</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141018</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>540</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>180</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141207</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>390</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20141207</SALE_DATE>    <POINT_TYPE>3</POINT_TYPE>    <POINT>7500</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150325</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>510</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20150509</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>370</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20201015</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>475</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20201002</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>495</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20151107</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>390</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20160117</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>200</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20160814</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>440</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20161017</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>910</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20160823</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>360</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170616</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>670</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170514</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>790</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20171009</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>690</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20181115</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>500</POINT>    <CURRENT_POINT>10140</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+===={"permission":"104201,104202,104204,104205","result":"S"}
+DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]
+DEBUG SMTP: useEhlo true, useAuth true
+DEBUG SMTP: useEhlo true, useAuth true
+DEBUG SMTP: trying to connect to host "smtp.gmail.com", port 587, isSSL false
+220 smtp.gmail.com ESMTP 123sm16716275pfd.91 - gsmtp
+DEBUG SMTP: connected to host "smtp.gmail.com", port: 587
+
+EHLO tomcat-alone3-55
+250-smtp.gmail.com at your service, [211.43.203.55]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "35882577"
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "STARTTLS", arg ""
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+STARTTLS
+220 2.0.0 Ready to start TLS
+EHLO tomcat-alone3-55
+250-smtp.gmail.com at your service, [211.43.203.55]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "35882577"
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "AUTH", arg "LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH"
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+DEBUG SMTP: Attempt to authenticate
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cGhvbWVpbmtyQGdtYWlsLmNvbQ==
+334 UGFzc3dvcmQ6
+Ynh4dmJ0ZmhjYW13YXRhbw==
+235 2.7.0 Accepted
+DEBUG SMTP: use8bit false
+MAIL FROM:<phomeinkr@gmail.com>
+250 2.1.0 OK 123sm16716275pfd.91 - gsmtp
+RCPT TO:<paran0428@naver.com>
+250 2.1.5 OK 123sm16716275pfd.91 - gsmtp
+DEBUG SMTP: Verified Addresses
+DEBUG SMTP:   paran0428@naver.com
+DATA
+354  Go ahead 123sm16716275pfd.91 - gsmtp
+Date: Mon, 15 Feb 2021 14:30:52 +0900 (KST)
+From: Phomein <phomeinkr@gmail.com>
+To: paran0428@naver.com
+Message-ID: <1233034667.13.1613367052745.JavaMail.dailyking@tomcat-alone3-55>
+Subject: =?UTF-8?B?W+2PrOuplOyduF0g66y47J2Y7JeQIOuMgA==?=
+ =?UTF-8?B?7ZWcIOuLteuzgCDrk5zrpr3ri4jri6QuIA==?=
+MIME-Version: 1.0
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3recipe//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>=EB=AC=B8=EC=9D=98 =EB=8B=B5=EB=B3=80</title>
+</head>
+
+<body style=3D"margin:0; padding:0;">
+=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"698" st=
+yle=3D"margin:0 auto; padding:0;  color:#666; font-size:0; font-family:'=EB=
+=8F=8B=EC=9B=80', 'Dotum', 'Arial'; border:1px solid #ededed; border-spacin=
+g:0; border-collapse:collapse;">
+=09=09<tr>
+=09=09=09<td style=3D"padding:30px 39px 0 39px;">
+=09=09=09=09<div style=3D"position:relative; width:618px; margin:0; padding=
+:0;">
+=09=09=09=09=09<img src=3D"http://www.phomein.com/asset/images/email/email_=
+logo.png" alt=3D"" style=3D"border:none; vertical-align:top;" />
+=09=09=09=09=09<!-- <p style=3D"position:absolute; bottom:16px; right:0; pa=
+dding:0; margin:0; color:#222; font-size:12px; line-height:1; font-weight:b=
+old;">2021.02.15</p> -->
+=09=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09
+=09=09<tr>
+=09=09=09<td style=3D"padding:60px 39px 40px 39px; text-align:center;">
+=09=09=09=09<p style=3D"margin:0; padding:0 0 60px 0; text-align:left;">
+=09=09=09=09=09<img src=3D"http://www.phomein.com/asset/images/email/email_=
+tit_01.png" alt=3D"=EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EB=AC=B8=EC=9D=98=
+=EC=97=90 =EB=8C=80=ED=95=9C =EB=8B=B5=EB=B3=80 =EB=82=B4=EC=9A=A9=EC=9D=84=
+ =EC=95=88=EB=82=B4=ED=95=B4 =EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4." style=
+=3D"border:none; vertical-align:top;" />
+=09=09=09=09</p>
+=09=09=09=09<div style=3D"margin:0 0 15px 0; color:#222; font-size:14px; fo=
+nt-weight:bold; text-align:left;">=EB=AC=B8=EC=9D=98=EC=A0=95=EB=B3=B4</div=
+>
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"618" style=3D"margin:0 auto; padding:0;  color:#666; font-size:0; font-=
+family:'=EB=8F=8B=EC=9B=80', 'Dotum', 'Arial'; border-top:1px solid #444; b=
+order-spacing:0; border-collapse:collapse; text-align:left;">
+=09=09=09=09=09<colgroup>
+=09=09=09=09=09=09<col style=3D"width:134px">
+=09=09=09=09=09=09<col style=3D"width:auto">
+=09=09=09=09=09=09<col style=3D"width:134px">
+=09=09=09=09=09=09<col style=3D"width:176px">
+=09=09=09=09=09</colgroup>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EB=AC=B8=EC=9D=98=EA=B5=AC=EB=B6=84</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=EA=B8=
+=B0=ED=83=80</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=9D=B4=EB=A6=84</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=B0=A8=ED=98=84=
+=ED=9D=AC</td>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=97=B0=EB=9D=BD=EC=B2=98</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">010-63**-*759</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=EC=9D=B4=EB=A9=94=EC=9D=BC</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">paran0428@naver.com<=
+/td>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px;">=
+=ED=9A=8C=EC=8B=A0=EC=9A=94=EC=B2=AD</th>
+=09=09=09=09=09=09<td style=3D"padding:15px 10px; color:#666; font-size:12p=
+x; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=9D=B4=EB=A9=94=
+=EC=9D=BC</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px; v=
+ertical-align:top;">=EC=A0=9C=EB=AA=A9</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=ED=8F=
+=AC=EB=A9=94=EC=9D=B8 =EC=B9=A0=EB=A6=AC=EC=86=8C=EC=8A=A4</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding:15px 20px; color:#444; font-size:12p=
+x; background:#f9f9f9; border-bottom:1px solid #e0e0e0; line-height:20px; v=
+ertical-align:top;">=EB=82=B4=EC=9A=A9</th>
+=09=09=09=09=09=09<td colspan=3D"3" style=3D"padding:15px 10px; color:#666;=
+ font-size:12px; border-bottom:1px solid #e0e0e0; line-height:20px;">=EC=B9=
+=A0=EB=A6=AC=EC=86=8C=EC=8A=A4 =EB=84=88=EB=AC=B4 =EB=A7=9B=EC=9E=88=EC=96=
+=B4=EC=84=9C =EB=A7=A4=EB=B2=88 =EB=8D=94 =EB=8B=AC=EB=9D=BC=EA=B3=A0 =EC=
+=9A=94=EC=B2=AD=ED=95=B4=EB=8F=84 =EB=8A=98 =EC=A0=95=ED=95=B4=EC=A7=84 =EC=
+=96=91=EB=A7=8C =EC=A3=BC=EB=8D=94=EB=9D=BC=EA=B3=A0=EC=9A=94=E3=85=A0=E3=
+=85=A0=E3=85=A0=E3=85=A0 =EB=84=88=EB=AC=B4 =EC=A2=8B=EC=95=84=ED=95=B4=EC=
+=84=9C =EB=94=B0=EB=A1=9C =EA=B5=AC=EB=A7=A4 =ED=95=98=EA=B3=A0 =EC=8B=B6=
+=EC=9D=80=EB=8D=B0...=E3=85=A0=E3=85=A0 =EC=97=AC=EC=9D=98=EB=8F=84=EB=82=
+=98 =ED=99=8D=EB=8C=80=EA=B7=BC=EC=B2=98 =EC=9E=88=EC=9D=84=EA=B9=8C=EC=9A=
+=94? =EC=98=A8=EB=9D=BC=EC=9D=B8 =EA=B5=AC=EB=A7=A4 =EB=84=88=EB=AC=B4 =EC=
+=9B=90=ED=95=B4=EC=9A=94=E3=85=A0=E3=85=A0=E3=85=A0</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<div style=3D"margin:30px 0 15px 0; color:#444; font-size:14px;=
+ font-weight:bold; text-align:left;">=EB=8B=B5=EB=B3=80=EB=82=B4=EC=9A=A9</=
+div>
+=09=09=09=09<div style=3D"padding:25px 30px; border-top:1px solid #444; tex=
+t-align:left; background:#f9f9f9;">
+=09=09=09=09=09<p style=3D"margin:0; color:#444; font-size:12px; font-weigh=
+t:bold; line-height:20px;">=EC=95=88=EB=85=95=ED=95=98=EC=84=B8=EC=9A=94.<b=
+r>=EA=B3=A0=EA=B0=9D=EB=8B=98=EA=BB=98=EC=84=9C =ED=8F=AC=EB=A9=94=EC=9D=B8=
+=EC=97=90 =EB=AC=B8=EC=9D=98=ED=95=98=EC=8B=A0 =EA=B3=A0=EA=B0=9D=EC=9D=98 =
+=EC=86=8C=EB=A6=AC =EB=AC=B8=EC=9D=98=EC=97=90 =EB=8C=80=ED=95=9C =EB=8B=B5=
+=EB=B3=80=EC=9E=85=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EC=95=88=EB=85=95=ED=95=98=EC=8B=AD=EB=8B=88=EA=B9=8C =
+=EA=B3=A0=EA=B0=9D=EB=8B=98, =ED=8F=AC=EB=A9=94=EC=9D=B8 =EB=B3=B8=EC=82=AC=
+ (=EC=A3=BC)=EB=8D=B0=EC=9D=BC=EB=A6=AC=ED=82=B9=EC=9E=85=EB=8B=88=EB=8B=A4=
+.. =ED=98=84=EC=9E=AC =EA=B3=A0=EA=B0=9D =ED=8C=90=EB=A7=A4=EC=9A=A9 =EC=86=
+=8C=EC=8A=A4=EB=8A=94 =EC=98=A8=EB=9D=BC=EC=9D=B8 =EC=9C=A0=ED=86=B5=EC=9D=
+=B4 =EB=B6=88=EA=B0=80 =ED=95=9C =EC=A0=90 =EC=96=91=ED=95=B4 =EB=B6=80=ED=
+=83=81=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4. =EB=A7=90=EC=94=80 =EC=A3=BC=EC=
+=8B=A0 =EC=A7=80=EC=97=AD =EC=9D=B8=EA=B7=BC =EB=A7=A4=EC=9E=A5 =EC=A4=91 =
+=ED=8F=AC=EB=A9=94=EC=9D=B8 =EC=8B=A0=EC=B4=8C=EC=A0=90=EC=97=90=EC=84=9C =
+=EC=9E=85=EA=B3=A0 =EB=82=B4=EC=97=AD=EC=9D=B4 =ED=99=95=EC=9D=B8=EB=90=A9=
+=EB=8B=88=EB=8B=A4. =ED=95=B4=EB=8B=B9 =EB=A7=A4=EC=9E=A5 =EC=9C=A0=EC=84=
+=A0 =ED=99=95=EC=9D=B8 =EC=9D=B4=ED=9B=84 =EB=B0=A9=EB=AC=B8=ED=95=98=EC=97=
+=AC =EA=B5=AC=EB=A7=A4 =EB=B0=8F =EC=82=AC=EC=9A=A9 =EB=B6=80=ED=83=81=EB=
+=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4. =ED=95=AD=EC=83=81 =EA=B3=A0=EA=B0=9D=EB=
+=8B=98=EC=9D=98 =EC=86=8C=EC=A4=91=ED=95=9C =EC=9D=98=EA=B2=AC=EC=97=90 =EA=
+=B7=80 =EA=B8=B0=EC=9A=B8=EC=9D=B4=EB=8A=94 =ED=8F=AC=EB=A9=94=EC=9D=B8=EC=
+=9D=B4 =EB=90=98=EB=8F=84=EB=A1=9D =EB=85=B8=EB=A0=A5=ED=95=98=EA=B2=A0=EC=
+=8A=B5=EB=8B=88=EB=8B=A4. =EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=EB=8B=A4.</p=
+>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EC=B6=94=EA=B0=80=EB=A1=9C =EA=B6=81=EA=B8=88=ED=95=98=
+=EC=8B=A0 =EC=A0=90=EC=9D=B4=EB=82=98 =EB=B6=88=ED=8E=B8=EC=82=AC=ED=95=AD=
+=EC=9D=80 =EC=9E=AC=EB=AC=B8=EC=9D=98 =EB=98=90=EB=8A=94 =EC=95=84=EB=9E=98=
+ =EB=B2=88=ED=98=B8=EB=A1=9C =EC=A0=84=ED=99=94 =EB=AC=B8=EC=9D=98 =EB=B6=
+=80=ED=83=81=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EA=B3=A0=EA=B0=9D=EC=84=BC=ED=84=B0(=EB=8C=80=ED=91=9C=
+=EB=B2=88=ED=98=B8 =EC=97=B0=EA=B2=B0 1=EB=B2=88) 1899-2422<br>=EC=A7=81=ED=
+=86=B5=EB=B2=88=ED=98=B8 031-780-1500</p>
+=09=09=09=09=09<p style=3D"margin:15px 0 0 0; color:#444; font-size:12px; l=
+ine-height:20px;">=EA=B3=A0=EA=B0=9D=EB=8B=98=EC=9D=98 =EC=9D=98=EA=B2=AC=
+=EC=9C=BC=EB=A1=9C =EC=9D=B8=ED=95=B4 =EB=B0=9C=EC=A0=84=ED=95=98=EB=8A=94 =
+=ED=8F=AC=EB=A9=94=EC=9D=B8=EC=9D=B4 =EB=90=98=EB=8F=84=EB=A1=9D =EB=8D=94=
+=EC=9A=B1 =EB=85=B8=EB=A0=A5=ED=95=98=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4.<=
+br>=EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09</div>
+=09=09=09=09<p style=3D"margin:30px 0 0 0; padding:0;">
+=09=09=09=09=09<a href=3D"http://www.phomein.com" target=3D"_blank"><img sr=
+c=3D"http://www.phomein.com/asset/images/email/email_btn_01.png" alt=3D"" s=
+tyle=3D"border:none; vertical-align:top;" /></a>
+=09=09=09=09</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td style=3D"padding:25px 39px 59px 39px; border-top:1px solid #ed=
+eded; text-align:center;">
+=09=09=09=09<p style=3D"margin:0; color:#888; font-size:11px; line-height:2=
+0px; letter-spacing:-0.22px;">=EB=B3=B8 =EB=A9=94=EC=9D=BC=EC=9D=80 =EC=84=
+=9C=EB=B9=84=EC=8A=A4 =EC=9D=B4=EC=9A=A9 =EB=B0=8F =EB=B2=95=EC=A0=81 =EC=
+=9D=98=EB=AC=B4 =EA=B3=A0=EC=A7=80=EC=82=AC=ED=95=AD =EC=95=88=EB=82=B4=EB=
+=A9=94=EC=9D=BC=EB=A1=9C =EC=88=98=EC=8B=A0=EB=8F=99=EC=9D=98 =EC=97=AC=EB=
+=B6=80=EC=99=80 =EC=83=81=EA=B4=80=EC=97=86=EC=9D=B4 =EB=B0=9C=EC=86=A1=EB=
+=90=98=EC=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.<br>
+=09=09=09=09=EB=B3=B8 =EB=A9=94=EC=9D=BC=EC=9D=80 =EB=B0=9C=EC=8B=A0=EC=A0=
+=84=EC=9A=A9=EC=9D=B4=EB=AF=80=EB=A1=9C =ED=9A=8C=EC=8B=A0=EB=90=98=EC=A7=
+=80 =EC=95=8A=EC=9C=BC=EB=A9=B0, =EB=AC=B8=EC=9D=98=EC=82=AC=ED=95=AD=EC=9D=
+=80 <a href=3D"#" target=3D"_blank" style=3D"color:#888; font-size:11px; fo=
+nt-weight:bold; text-decoration:none;">=EB=8C=80=ED=91=9C=EB=B2=88=ED=98=B8=
+:1899-2422</a>=EB=A1=9C =EC=97=B0=EB=9D=BD =EC=A3=BC=EC=8B=9C=EA=B8=B0 =EB=
+=B0=94=EB=9E=8D=EB=8B=88=EB=8B=A4.</p>
+=09=09=09=09<p style=3D"padding-top:10px; color:#888; font-size:11px; line-=
+height:20px;">=EA=B2=BD=EA=B8=B0=EB=8F=84 =EC=84=B1=EB=82=A8=EC=8B=9C =EB=
+=B6=84=EB=8B=B9=EA=B5=AC =ED=99=A9=EC=83=88=EC=9A=B8=EB=A1=9C 216, 401=ED=
+=98=B8 (=EC=88=98=EB=82=B4=EB=8F=99, =ED=9C=B4=EB=A7=A5=EC=8A=A4=EB=B9=8C=
+=EB=A6=AC=EC=A7=80)<br>
+=09=09=09=09=EC=A3=BC=EC=8B=9D=ED=9A=8C=EC=82=AC =EB=8D=B0=EC=9D=BC=EB=A6=
+=AC=ED=82=B9&nbsp;|&nbsp;Tel: 1899-2422 =EC=83=81=ED=98=B8=EB=AA=85: =EC=A3=
+=BC=EC=8B=9D=ED=9A=8C=EC=82=AC =EB=8D=B0=EC=9D=BC=EB=A6=AC=ED=82=B9&nbsp;|&=
+nbsp;=EC=82=AC=EC=97=85=EC=9E=90=EB=93=B1=EB=A1=9D=EB=B2=88=ED=98=B8: 129-8=
+6-03729</p>
+=09=09=09=09<p style=3D"margin:10px 0 0 0; padding:0; color:#888; font-size=
+:11px; line-height:1; font-weight:bold;letter-spacing:1.5px;">Copyright=E2=
+=93=922019 DAILYKING INC. All rights reserved.</p>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+</body>
+</html>
+
+.
+250 2.0.0 OK  1613367057 123sm16716275pfd.91 - gsmtp
+QUIT
+221 2.0.0 closing connection 123sm16716275pfd.91 - gsmtp
+===={"permission":"104201,104202,104204,104205","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>0</CURRENT_POINT>  </POINT_REQ></POS>
+2021-02-15 18:29:39,515  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'

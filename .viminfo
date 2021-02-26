@@ -1,0 +1,304 @@
+# ÀÌ viminfo ÆÄÀÏÀº ºöÀÌ ¸¸µç °ÍÀÔ´Ï´Ù Vim 7.2.
+# Á¶½É¸¸ ÇÑ´Ù¸é °íÄ¥ ¼öµµ ÀÖ½À´Ï´Ù!
+
+# ÀÌ ÆÄÀÏÀÌ ÀúÀåµÇ¾úÀ» ¶§ÀÇ 'encoding'ÀÇ °ª
+*encoding=euc-kr
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~MSle0~/kakao
+
+# ¸í·É ÁÙ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+:wq
+:q
+:11111111111111
+:1111111111111111
+:q!
+:111111111111111111111
+:qqqqqqqqqqqqqq
+:11111111111
+:1111111111
+:1
+:se nu
+
+# Ã£À» ¹®ÀÚ¿­ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+?/kakao
+?/fileNameCheck
+?/fileName
+?/?????„?
+?/store
+?/0527
+?/all-menu
+?/padding-bottom
+
+# Ç¥Çö È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+
+# ÀÔ·Â ÁÙ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+
+# ÀÔ·Â ÁÙ È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ °Í ¼ø):
+
+# ·¹Áö½ºÅÍ:
+"0	LINE	0
+					<%--
+					<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=d1431e31aea654cea5be1ad1d5992740&libraries=services,clusterer,drawing"></script> --%>
+""1	LINE	0
+		</context-param>
+"2	LINE	0
+		    <param-value>false</param-value>
+"3	LINE	0
+		    <param-name>com.sun.faces.writeStateAtFormEnd</param-name>
+"4	LINE	0
+		<context-param>
+"5	LINE	0
+	-->
+"6	LINE	0
+	<!--
+"7	LINE	0
+	-->
+"8	LINE	0
+	<!--
+"9	LINE	0
+	    </session-config>
+"-	CHAR	0
+	 
+
+# ÆÄÀÏ ¸¶Å©:
+'0  43  5  ~/www/WEB-INF/web.xml
+'1  49  1  ~/www/WEB-INF/web.xml
+'2  75  1  ~/www/WEB-INF/web.xml
+'3  108  4  ~/www/WEB-INF/web.xml
+'4  106  0  ~/www/WEB-INF/web.xml
+'5  2348  0  ~/tomcat/logs/catalina.out
+'6  1667  0  ~/tomcat/logs/catalina.out
+'7  21245  0  ~/tomcat/logs/catalina.out
+'8  17202  0  ~/tomcat/logs/catalina.2019-09-01.log
+'9  16890  0  ~/tomcat/logs/catalina.out
+
+# Á¡ÇÁ¸ñ·Ï (»õ°ÍÀÌ ¸ÕÀú):
+-'  43  5  ~/www/WEB-INF/web.xml
+-'  49  2  ~/www/WEB-INF/web.xml
+-'  75  1  ~/www/WEB-INF/web.xml
+-'  108  4  ~/www/WEB-INF/web.xml
+-'  106  0  ~/www/WEB-INF/web.xml
+-'  2348  0  ~/tomcat/logs/catalina.out
+-'  1667  1  ~/tomcat/logs/catalina.out
+-'  109  0  ~/www/WEB-INF/web.xml
+-'  1  0  ~/tomcat/logs/catalina.out
+-'  21245  0  ~/tomcat/logs/catalina.out
+-'  16890  1  ~/tomcat/logs/catalina.out
+-'  17202  0  ~/tomcat/logs/catalina.2019-09-01.log
+-'  1  0  ~/tomcat/logs/catalina.2019-09-01.log
+-'  17577  0  ~/tomcat/logs/catalina.out
+-'  5659  1  ~/tomcat/logs/catalina.out
+-'  354  1  ~/tomcat/logs/catalina.out
+-'  1  0  ~/tomcat/logs/catalina.log
+-'  138  0  ~/backup/20190823_phomein/PHOMEIN/result.txt
+-'  1  0  ~/backup/20190823_phomein/PHOMEIN/result.txt
+-'  226  159  ~/www/WEB-INF/jsp/mjpn/store/store_list.jsp
+-'  1  0  ~/www/WEB-INF/jsp/mjpn/store/store_list.jsp
+-'  154  3  ~/www/WEB-INF/jsp/eng/store/store_list.jsp
+-'  1  0  ~/www/WEB-INF/jsp/eng/store/store_list.jsp
+-'  152  163  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  154  4  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  155  4  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  276  0  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  58  7  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  6  0  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  1  0  ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+-'  335  53  ~/www/asset/common/js/common.js
+-'  575  0  ~/www/asset/common/js/common.js
+-'  576  0  ~/www/asset/common/js/common.js
+-'  659  0  ~/www/WEB-INF/jsp/cms/store/store_write.jsp
+-'  1  0  ~/www/WEB-INF/jsp/cms/store/store_write.jsp
+-'  518  0  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  293  23  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  180  9  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  14  0  ~/www/WEB-INF/jsp/include/head.jspf
+-'  1  0  ~/www/WEB-INF/jsp/include/head.jspf
+-'  592  0  ~/www/asset/common/js/check.js
+-'  1  1  ~/www/asset/common/js/check.js
+-'  1  0  ~/www/asset/common/js/common.js
+-'  26  36  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  24  20  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  17  3  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  1  0  ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+-'  86  1  ~/www/WEB-INF/web.xml
+-'  1  0  ~/www/common/error.jsp
+-'  1  0  ~/www/WEB-INF/web.xml
+-'  1  0  ~/www/mcompany/common/css/content.css
+-'  337  7  ~/www/company/common/css/content.css
+-'  348  9  ~/www/company/common/css/content.css
+-'  339  0  ~/www/company/common/css/content.css
+-'  1  0  ~/www/company/common/css/content.css
+-'  408  13  ~/www/brand/common/css/content.css
+-'  407  13  ~/www/brand/common/css/content.css
+-'  406  13  ~/www/brand/common/css/content.css
+-'  405  13  ~/www/brand/common/css/content.css
+-'  410  27  ~/www/brand/common/css/content.css
+-'  409  27  ~/www/brand/common/css/content.css
+-'  1  0  ~/www/brand/common/css/content.css
+-'  328  4  ~/www/asset/common/js/front_ui.js
+-'  1  0  ~/www/asset/common/js/front_ui.js
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  328  4  ~/www/asset/common/js/front_ui.js
+-'  1  0  ~/www/asset/common/js/front_ui.js
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  328  4  ~/www/asset/common/js/front_ui.js
+-'  1  0  ~/www/asset/common/js/front_ui.js
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  328  4  ~/www/asset/common/js/front_ui.js
+-'  1  0  ~/www/asset/common/js/front_ui.js
+-'  600  4  ~/tomcat/conf/web.xml
+-'  1  0  ~/tomcat/conf/web.xml
+-'  1  14  ~/www/brand/menu/menu_view.html
+-'  1  14  ~/www/brand/menu/menu_view.html
+
+# ÆÄÀÏ³»ÀÇ ¸¶Å© È÷½ºÅä¸® (»õ°ÍºÎÅÍ ¿À·¡µÈ ¼ø):
+
+> ~/www/WEB-INF/web.xml
+	"	43	5
+	^	108	4
+	.	43	0
+	+	43	12
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	1
+	+	43	1
+	+	43	1
+	+	43	0
+	+	109	0
+	+	59	3
+	+	78	0
+	+	79	0
+	+	75	2
+	+	109	0
+	+	106	3
+	+	109	2
+	+	107	7
+	+	108	4
+	+	59	0
+	+	75	0
+	+	106	0
+	+	109	0
+	+	43	0
+
+> ~/tomcat/logs/catalina.out
+	"	2348	0
+
+> ~/tomcat/logs/catalina.2019-09-01.log
+	"	17202	0
+
+> ~/tomcat/logs/catalina.log
+	"	1	0
+
+> ~/backup/20190823_phomein/PHOMEIN/result.txt
+	"	138	0
+
+> ~/www/WEB-INF/jsp/mjpn/store/store_list.jsp
+	"	226	159
+	.	226	155
+	+	227	0
+	+	225	0
+	+	228	154
+	+	226	155
+
+> ~/www/WEB-INF/jsp/eng/store/store_list.jsp
+	"	154	3
+
+> ~/www/WEB-INF/jsp/brand/store/store_list.jsp
+	"	152	163
+	^	153	0
+	.	152	159
+	+	155	0
+	+	155	110
+	+	155	0
+	+	155	0
+	+	155	158
+	+	155	159
+	+	155	0
+	+	154	0
+	+	155	160
+	+	155	0
+	+	154	0
+	+	155	158
+	+	154	159
+	+	155	0
+	+	154	0
+	+	155	0
+	+	153	0
+	+	154	158
+	+	152	159
+
+> ~/www/asset/common/js/common.js
+	"	335	53
+	.	576	0
+	+	576	0
+	+	576	0
+
+> ~/www/WEB-INF/jsp/cms/store/store_write.jsp
+	"	659	0
+
+> ~/www/WEB-INF/jsp/cms/intranet/order_design_write.jsp
+	"	518	0
+
+> ~/www/WEB-INF/jsp/include/head.jspf
+	"	14	0
+
+> ~/www/asset/common/js/check.js
+	"	592	0
+
+> ~/www/common/error.jsp
+	"	1	0
+
+> ~/www/mcompany/common/css/content.css
+	"	1	0
+
+> ~/www/company/common/css/content.css
+	"	337	7
+
+> ~/www/brand/common/css/content.css
+	"	408	13
+
+> ~/www/asset/common/js/front_ui.js
+	"	328	4
+	^	328	5
+	.	328	5
+	+	324	4
+	+	328	5
+
+> ~/tomcat/conf/web.xml
+	"	600	4
+	^	599	27
+	.	599	26
+	+	599	26
+
+> ~/www/brand/menu/menu_view.html
+	"	1	14

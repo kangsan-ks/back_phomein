@@ -1,0 +1,31 @@
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>1460</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="3" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <SALE_DATE>20170316</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1050</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20190108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>380</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>0</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170623</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1670</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170510</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1050</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="3" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <SALE_DATE>20170316</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1050</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20190108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>380</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170108</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>0</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170623</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1670</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ>  <POINT_REQ>    <SALE_DATE>20170510</SALE_DATE>    <POINT_TYPE>1</POINT_TYPE>    <POINT>1050</POINT>    <CURRENT_POINT>4150</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;" />
+2021-02-20 17:15:19,999  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'
+>>>>>>>>>>>>> [com.main.domain.CodeVO@102480a8, com.main.domain.CodeVO@4c7a9ddf, com.main.domain.CodeVO@612c2b3, com.main.domain.CodeVO@39ac78e2, com.main.domain.CodeVO@6a345b02, com.main.domain.CodeVO@134316c7]
+>>>>>>>>>>>>> 13
+>>>>>>>>>>>>> [com.main.domain.CodeVO@58afaf6c, com.main.domain.CodeVO@762608f0, com.main.domain.CodeVO@3b150129, com.main.domain.CodeVO@5fff490c, com.main.domain.CodeVO@7114e410, com.main.domain.CodeVO@12891070]
+>>>>>>>>>>>>> 13
+>>>>>>>>>>>>> [com.main.domain.CodeVO@36ab0eb4, com.main.domain.CodeVO@18526776, com.main.domain.CodeVO@4a068073, com.main.domain.CodeVO@70db23fc, com.main.domain.CodeVO@4317af46, com.main.domain.CodeVO@47f43f13]
+>>>>>>>>>>>>> 13

@@ -1,0 +1,96 @@
+===={"permission":"105207,104201,104202","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+================= mergeCardToMilage ===================
+========2013100100124773===========
+========01073317906===========
+========238===========
+================= mergeCardToMilage ===================
+data_MERGEMILEAGEXML:<?xml version="1.0" encoding="UTF-8"?><POS REQ_CODE="5"><CARD_CHANGE><HEAD_OFFICE_NO>860</HEAD_OFFICE_NO><SHOP_NO>000001</SHOP_NO><ORG_CARD_NO>2013100100124773</ORG_CARD_NO><NEW_CARD_NO>01073317906</NEW_CARD_NO></CARD_CHANGE></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?>
+[Fatal Error] :1:40: 예기치 않은 파일의 끝입니다.
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 40; 예기치 않은 파일의 끝입니다.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:257)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:347)
+	at com.main.web.brand.phomein.service.impl.PhomeinServiceImpl.mergeCardToMilage(PhomeinServiceImpl.java:248)
+	at com.main.admin.customer.web.CustomerController.update_apply_complete(CustomerController.java:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.mobile.device.DeviceResolverRequestFilter.doFilterInternal(DeviceResolverRequestFilter.java:60)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.navercorp.lucy.security.xss.servletfilter.XssEscapeServletFilter.doFilter(XssEscapeServletFilter.java:36)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.ajp.AbstractAjpProcessor.process(AbstractAjpProcessor.java:877)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+>>>>>>>>>>>>> [com.main.domain.CodeVO@5f54993, com.main.domain.CodeVO@2ab154f3, com.main.domain.CodeVO@6040336a, com.main.domain.CodeVO@16efa584, com.main.domain.CodeVO@4f5b88df, com.main.domain.CodeVO@277112d]
+>>>>>>>>>>>>> 13
+2021-02-17 11:14:37,625  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'
+2021-02-17 11:14:38,436  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'
+2021-02-17 11:20:27,531  WARN [org.springframework.web.servlet.PageNotFound] No mapping found for HTTP request with URI [/cms/login.do] in DispatcherServlet with name 'action'
+===={"permission":"104201,104202,104204,104205","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+===={"permission":"104202","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>18970</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>18970</CURRENT_POINT>  </POINT_REQ></POS>
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>18970</CURRENT_POINT>  </POINT_REQ></POS>
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"result":"F"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+===={"permission":"104202","result":"S"}
+===={"result":"F"}
+===={"permission":"104202","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205","result":"S"}
+===={"permission":"101201,102201,103201,103202,103203,105201,105202,105203,105205,105206,105207,105204,107203,107201,107202,107205,104201,104202,104204,104205,101221","result":"S"}
+===={"permission":"104201,104202,104204,104205","result":"S"}
+OK
+response:<?xml version="1.0" encoding="euc-kr"?><POS RESPONSE="0000" REQ_CODE="6" MESSAGE="&#xfffd;&#xfffd;&#xfffd;&#xfffd;">  <POINT_REQ>    <CURRENT_POINT>8160</CURRENT_POINT>  </POINT_REQ></POS>
